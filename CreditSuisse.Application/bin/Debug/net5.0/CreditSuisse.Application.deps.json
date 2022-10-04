@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CreditSuisse.Application/1.0.0": {
+        "dependencies": {
+          "CreditSuisse.Domain": "1.0.0"
+        },
+        "runtime": {
+          "CreditSuisse.Application.dll": {}
+        }
+      },
+      "CreditSuisse.Domain/1.0.0": {
+        "runtime": {
+          "CreditSuisse.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CreditSuisse.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CreditSuisse.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
