@@ -9,5 +9,6 @@ namespace CreditSuisse.Data.Interfaces.Repository
         Task<T> GetById(int id);
         Task<IEnumerable<T>> GetAll();
         void Dispose();
+        Task<T> Insert(T obj);
     }
 }

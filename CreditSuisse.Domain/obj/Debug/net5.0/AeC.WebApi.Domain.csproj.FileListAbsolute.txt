@@ -1,0 +1,12 @@
+C:\Users\pedro\OneDrive\Área de Trabalho\BRQ\SSO_Painel-main\AeC.WebApi\AeC.WebApi.Domain\bin\Debug\net5.0\AeC.WebApi.Domain.deps.json
+C:\Users\pedro\OneDrive\Área de Trabalho\BRQ\SSO_Painel-main\AeC.WebApi\AeC.WebApi.Domain\bin\Debug\net5.0\AeC.WebApi.Domain.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\BRQ\SSO_Painel-main\AeC.WebApi\AeC.WebApi.Domain\bin\Debug\net5.0\AeC.WebApi.Domain.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\BRQ\SSO_Painel-main\AeC.WebApi\AeC.WebApi.Domain\obj\Debug\net5.0\AeC.WebApi.Domain.csproj.AssemblyReference.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\BRQ\SSO_Painel-main\AeC.WebApi\AeC.WebApi.Domain\obj\Debug\net5.0\AeC.WebApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\OneDrive\Área de Trabalho\BRQ\SSO_Painel-main\AeC.WebApi\AeC.WebApi.Domain\obj\Debug\net5.0\AeC.WebApi.Domain.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\BRQ\SSO_Painel-main\AeC.WebApi\AeC.WebApi.Domain\obj\Debug\net5.0\AeC.WebApi.Domain.AssemblyInfo.cs
+C:\Users\pedro\OneDrive\Área de Trabalho\BRQ\SSO_Painel-main\AeC.WebApi\AeC.WebApi.Domain\obj\Debug\net5.0\AeC.WebApi.Domain.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\BRQ\SSO_Painel-main\AeC.WebApi\AeC.WebApi.Domain\obj\Debug\net5.0\AeC.WebApi.Domain.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\BRQ\SSO_Painel-main\AeC.WebApi\AeC.WebApi.Domain\obj\Debug\net5.0\refint\AeC.WebApi.Domain.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\BRQ\SSO_Painel-main\AeC.WebApi\AeC.WebApi.Domain\obj\Debug\net5.0\AeC.WebApi.Domain.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\BRQ\SSO_Painel-main\AeC.WebApi\AeC.WebApi.Domain\obj\Debug\net5.0\ref\AeC.WebApi.Domain.dll

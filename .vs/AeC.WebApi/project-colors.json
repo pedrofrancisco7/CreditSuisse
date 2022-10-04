@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8433c1d6-b131-49df-b552-22e21076c639": {
+      "ProjectGuid": "8433c1d6-b131-49df-b552-22e21076c639",
+      "DisplayName": "Aec.WebApi.Api",
+      "ColorIndex": 0
+    },
+    "6f444b4c-740a-4264-aacf-0ac43f5ef9bc": {
+      "ProjectGuid": "6f444b4c-740a-4264-aacf-0ac43f5ef9bc",
+      "DisplayName": "AeC.WebApi.IoC",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

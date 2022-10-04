@@ -11,6 +11,7 @@
   <ItemGroup>
     <ProjectReference Include="..\CreditSuisse.Application\CreditSuisse.Application.csproj" />
     <ProjectReference Include="..\CreditSuisse.Data\CreditSuisse.Data.csproj" />
+    <ProjectReference Include="..\CreditSuisse.Domain\CreditSuisse.Domain.csproj" />    
   </ItemGroup>
 
 </Project>

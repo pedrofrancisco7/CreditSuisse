@@ -1,4 +1,5 @@
 ﻿using CreditSuisse.Application.Interfaces;
+using CreditSuisse.Domain.Entities;
 using CreditSuisse.Domain.Interfaces.Services;
 using System.Collections.Generic;
 using System.Threading.Tasks;
@@ -30,6 +31,11 @@ namespace CreditSuisse.Application.Services
         public Task<IEnumerable<T>> GetByName(string name)
         {
             return _serviceBase.GetByName(name);
+        }
+
+        public Task<T> Insert(T obj)
+        {
+            return _serviceBase.Insert(obj);
         }
     }
 }

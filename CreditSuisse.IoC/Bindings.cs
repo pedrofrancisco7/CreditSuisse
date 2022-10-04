@@ -1,9 +1,10 @@
 ﻿using CreditSuisse.Application.Interfaces;
 using CreditSuisse.Application.Services;
 using CreditSuisse.Data.Context;
-using CreditSuisse.Data.Interfaces.Repository;
+
 using CreditSuisse.Data.Mapping;
 using CreditSuisse.Data.Repository;
+using CreditSuisse.Domain.Interfaces.Repository;
 using CreditSuisse.Domain.Interfaces.Services;
 using CreditSuisse.Domain.Services;
 using Microsoft.Extensions.DependencyInjection;
@@ -16,24 +17,23 @@ namespace CreditSuisse.IoC
         {
             #region Application
             services.AddScoped(typeof(IAppServiceBase<>), typeof(AppServiceBase<>));
-            //services.AddScoped<IAppServiceTrade, AppServiceTrade>();
-            services.AddScoped<IAppServiceCategory, AppServiceCategory>();
+            services.AddScoped<ICategoryAppService, CategoryAppService>();
+            services.AddScoped<ITradeAppService, TradeAppService>();            
             #endregion
 
-            //#region Domain
-            //services.AddScoped(typeof(IServiceBase<>), typeof(ServiceBase<>));
-            //services.AddScoped(typeof(IRepositoryBase<>), typeof(RepositoryBase<>));
-            //services.AddScoped<IServiceTrade, ServiceTrade>();
-            //services.AddScoped<IServiceCategory, ServiceCategory>();            
-            //#endregion
+            #region Domain
+            services.AddScoped(typeof(IServiceBase<>), typeof(ServiceBase<>));
+            services.AddScoped(typeof(IRepositoryBase<>), typeof(RepositoryBase<>));
+            services.AddScoped<ITradeService, TradeService>();
+            services.AddScoped<ICategoryService, CategoryService>();
+            #endregion
 
-            //#region Infra           
-            //services.AddScoped<IRepositoryTrade, RepositoryTrade>();
-            //services.AddScoped<IRepositoryCategory, RepositoryCategory>();
-            //#endregion
+            #region Infra            
+            services.AddScoped<ITradeRepository, TradeRepository>();
+            services.AddScoped<ICategoryRepository, CategoryRepository>();
+            #endregion
 
             services.AddSingleton<CreditSuisseContext>();
-
         }
 
         public static void RegisterMappings()
@@ -41,4 +41,5 @@ namespace CreditSuisse.IoC
             RegisterMapping.Initialize();
         }
     }
+
 }

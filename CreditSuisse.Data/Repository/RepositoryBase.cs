@@ -4,7 +4,6 @@ using Dapper;
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
 using System.Threading.Tasks;
 
 namespace CreditSuisse.Data.Repository
@@ -69,14 +68,44 @@ namespace CreditSuisse.Data.Repository
             var type = typeof(T);
             var tabela = GetTableName(type);
             
-            //var collection = _context.GetDataBase().GetCollection<T>(tabela);
-
-            //var nomeCampo = $"Nome{type.Name}";
-
-            //var filter = Builders<T>.Filter.Regex(nomeCampo, BsonRegularExpression.Create(new Regex(name, RegexOptions.IgnoreCase)));
-
-            //return await collection.Find(filter).ToListAsync();
             return null;
+        }
+
+
+        public async Task<T> Insert(T obj)
+        {
+
+            using var db = _context.SqlConnection();
+            var updateQuery = @"INSERT INTO [dbo].[Category]
+                                      ([Name]
+                                      ,[Description]
+                                      ,[InsertDate]
+                                      ,[Value]
+                                      ,[Sector])
+                                VALUES
+                                      (@Name
+                                      ,@Description
+                                      ,@InsertDate
+                                      ,@Value
+                                      ,@Sector)";
+
+            var result = await db.ExecuteAsync(updateQuery, obj);
+
+            return obj;
+
+
+
+            //var type = typeof(T);
+            //var tabela = GetTableName(type);
+
+            //using var tbl = _context.SqlConnection();
+
+            //var query = $@"INSERT INTO {tabela} (";
+
+            //var result = await tbl.ExecuteAsync(query,tbl);
+
+            //return null;
+
         }
 
         #region Utils
@@ -89,7 +118,7 @@ namespace CreditSuisse.Data.Repository
                 name = tableAttr.Name;
 
             return name;
-        }
+        }        
         #endregion
     }
 }

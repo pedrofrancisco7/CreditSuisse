@@ -1,0 +1,360 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\pedro\\OneDrive\\Área de Trabalho\\BRQ\\SSO_Painel-main\\AeC.WebApi\\Aec.WebApi.Api\\Aec.WebApi.Api.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\pedro\\OneDrive\\Área de Trabalho\\BRQ\\SSO_Painel-main\\AeC.WebApi\\Aec.WebApi.Api\\Aec.WebApi.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\pedro\\OneDrive\\Área de Trabalho\\BRQ\\SSO_Painel-main\\AeC.WebApi\\Aec.WebApi.Api\\Aec.WebApi.Api.csproj",
+        "projectName": "Aec.WebApi.Api",
+        "projectPath": "C:\\Users\\pedro\\OneDrive\\Área de Trabalho\\BRQ\\SSO_Painel-main\\AeC.WebApi\\Aec.WebApi.Api\\Aec.WebApi.Api.csproj",
+        "packagesPath": "C:\\Users\\pedro\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\pedro\\OneDrive\\Área de Trabalho\\BRQ\\SSO_Painel-main\\AeC.WebApi\\Aec.WebApi.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\pedro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\pedro\\OneDrive\\Área de Trabalho\\BRQ\\SSO_Painel-main\\AeC.WebApi\\AeC.WebApi.Application\\AeC.WebApi.Application.csproj": {
+                "projectPath": "C:\\Users\\pedro\\OneDrive\\Área de Trabalho\\BRQ\\SSO_Painel-main\\AeC.WebApi\\AeC.WebApi.Application\\AeC.WebApi.Application.csproj"
+              },
+              "C:\\Users\\pedro\\OneDrive\\Área de Trabalho\\BRQ\\SSO_Painel-main\\AeC.WebApi\\AeC.WebApi.Domain\\AeC.WebApi.Domain.csproj": {
+                "projectPath": "C:\\Users\\pedro\\OneDrive\\Área de Trabalho\\BRQ\\SSO_Painel-main\\AeC.WebApi\\AeC.WebApi.Domain\\AeC.WebApi.Domain.csproj"
+              },
+              "C:\\Users\\pedro\\OneDrive\\Área de Trabalho\\BRQ\\SSO_Painel-main\\AeC.WebApi\\AeC.WebApi.IoC\\AeC.WebApi.IoC.csproj": {
+                "projectPath": "C:\\Users\\pedro\\OneDrive\\Área de Trabalho\\BRQ\\SSO_Painel-main\\AeC.WebApi\\AeC.WebApi.IoC\\AeC.WebApi.IoC.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[11.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Versioning": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\pedro\\OneDrive\\Área de Trabalho\\BRQ\\SSO_Painel-main\\AeC.WebApi\\AeC.WebApi.Application\\AeC.WebApi.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\pedro\\OneDrive\\Área de Trabalho\\BRQ\\SSO_Painel-main\\AeC.WebApi\\AeC.WebApi.Application\\AeC.WebApi.Application.csproj",
+        "projectName": "AeC.WebApi.Application",
+        "projectPath": "C:\\Users\\pedro\\OneDrive\\Área de Trabalho\\BRQ\\SSO_Painel-main\\AeC.WebApi\\AeC.WebApi.Application\\AeC.WebApi.Application.csproj",
+        "packagesPath": "C:\\Users\\pedro\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\pedro\\OneDrive\\Área de Trabalho\\BRQ\\SSO_Painel-main\\AeC.WebApi\\AeC.WebApi.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\pedro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\pedro\\OneDrive\\Área de Trabalho\\BRQ\\SSO_Painel-main\\AeC.WebApi\\AeC.WebApi.Domain\\AeC.WebApi.Domain.csproj": {
+                "projectPath": "C:\\Users\\pedro\\OneDrive\\Área de Trabalho\\BRQ\\SSO_Painel-main\\AeC.WebApi\\AeC.WebApi.Domain\\AeC.WebApi.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\pedro\\OneDrive\\Área de Trabalho\\BRQ\\SSO_Painel-main\\AeC.WebApi\\AeC.WebApi.Data\\AeC.WebApi.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\pedro\\OneDrive\\Área de Trabalho\\BRQ\\SSO_Painel-main\\AeC.WebApi\\AeC.WebApi.Data\\AeC.WebApi.Data.csproj",
+        "projectName": "AeC.WebApi.Data",
+        "projectPath": "C:\\Users\\pedro\\OneDrive\\Área de Trabalho\\BRQ\\SSO_Painel-main\\AeC.WebApi\\AeC.WebApi.Data\\AeC.WebApi.Data.csproj",
+        "packagesPath": "C:\\Users\\pedro\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\pedro\\OneDrive\\Área de Trabalho\\BRQ\\SSO_Painel-main\\AeC.WebApi\\AeC.WebApi.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\pedro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\pedro\\OneDrive\\Área de Trabalho\\BRQ\\SSO_Painel-main\\AeC.WebApi\\AeC.WebApi.Domain\\AeC.WebApi.Domain.csproj": {
+                "projectPath": "C:\\Users\\pedro\\OneDrive\\Área de Trabalho\\BRQ\\SSO_Painel-main\\AeC.WebApi\\AeC.WebApi.Domain\\AeC.WebApi.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Dapper.FluentMap": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.14, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Rijndael256": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\pedro\\OneDrive\\Área de Trabalho\\BRQ\\SSO_Painel-main\\AeC.WebApi\\AeC.WebApi.Domain\\AeC.WebApi.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\pedro\\OneDrive\\Área de Trabalho\\BRQ\\SSO_Painel-main\\AeC.WebApi\\AeC.WebApi.Domain\\AeC.WebApi.Domain.csproj",
+        "projectName": "AeC.WebApi.Domain",
+        "projectPath": "C:\\Users\\pedro\\OneDrive\\Área de Trabalho\\BRQ\\SSO_Painel-main\\AeC.WebApi\\AeC.WebApi.Domain\\AeC.WebApi.Domain.csproj",
+        "packagesPath": "C:\\Users\\pedro\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\pedro\\OneDrive\\Área de Trabalho\\BRQ\\SSO_Painel-main\\AeC.WebApi\\AeC.WebApi.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\pedro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\pedro\\OneDrive\\Área de Trabalho\\BRQ\\SSO_Painel-main\\AeC.WebApi\\AeC.WebApi.IoC\\AeC.WebApi.IoC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\pedro\\OneDrive\\Área de Trabalho\\BRQ\\SSO_Painel-main\\AeC.WebApi\\AeC.WebApi.IoC\\AeC.WebApi.IoC.csproj",
+        "projectName": "AeC.WebApi.IoC",
+        "projectPath": "C:\\Users\\pedro\\OneDrive\\Área de Trabalho\\BRQ\\SSO_Painel-main\\AeC.WebApi\\AeC.WebApi.IoC\\AeC.WebApi.IoC.csproj",
+        "packagesPath": "C:\\Users\\pedro\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\pedro\\OneDrive\\Área de Trabalho\\BRQ\\SSO_Painel-main\\AeC.WebApi\\AeC.WebApi.IoC\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\pedro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\pedro\\OneDrive\\Área de Trabalho\\BRQ\\SSO_Painel-main\\AeC.WebApi\\AeC.WebApi.Application\\AeC.WebApi.Application.csproj": {
+                "projectPath": "C:\\Users\\pedro\\OneDrive\\Área de Trabalho\\BRQ\\SSO_Painel-main\\AeC.WebApi\\AeC.WebApi.Application\\AeC.WebApi.Application.csproj"
+              },
+              "C:\\Users\\pedro\\OneDrive\\Área de Trabalho\\BRQ\\SSO_Painel-main\\AeC.WebApi\\AeC.WebApi.Data\\AeC.WebApi.Data.csproj": {
+                "projectPath": "C:\\Users\\pedro\\OneDrive\\Área de Trabalho\\BRQ\\SSO_Painel-main\\AeC.WebApi\\AeC.WebApi.Data\\AeC.WebApi.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

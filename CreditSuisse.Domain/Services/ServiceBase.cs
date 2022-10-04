@@ -32,5 +32,10 @@ namespace CreditSuisse.Domain.Services
         {
             return _repositoryBase.GetByName(name);
         }
+
+        public Task<T> Insert(T obj)
+        {
+            return _repositoryBase.Insert(obj);
+        }
     }
 }

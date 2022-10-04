@@ -1,0 +1,8 @@
+C:\Users\pedro\OneDrive\Área de Trabalho\BRQ\SSO_Painel-main\AeC.WebApi\Aec.WebApi.Api\obj\Debug\net5.0\Aec.WebApi.Api.csproj.AssemblyReference.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\BRQ\SSO_Painel-main\AeC.WebApi\Aec.WebApi.Api\obj\Debug\net5.0\Aec.WebApi.Api.Properties.Resources.resources
+C:\Users\pedro\OneDrive\Área de Trabalho\BRQ\SSO_Painel-main\AeC.WebApi\Aec.WebApi.Api\obj\Debug\net5.0\Aec.WebApi.Api.csproj.GenerateResource.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\BRQ\SSO_Painel-main\AeC.WebApi\Aec.WebApi.Api\obj\Debug\net5.0\Aec.WebApi.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\OneDrive\Área de Trabalho\BRQ\SSO_Painel-main\AeC.WebApi\Aec.WebApi.Api\obj\Debug\net5.0\Aec.WebApi.Api.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\BRQ\SSO_Painel-main\AeC.WebApi\Aec.WebApi.Api\obj\Debug\net5.0\Aec.WebApi.Api.AssemblyInfo.cs
+C:\Users\pedro\OneDrive\Área de Trabalho\BRQ\SSO_Painel-main\AeC.WebApi\Aec.WebApi.Api\obj\Debug\net5.0\Aec.WebApi.Api.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\BRQ\SSO_Painel-main\AeC.WebApi\Aec.WebApi.Api\obj\Debug\net5.0\Aec.WebApi.Api.MvcApplicationPartsAssemblyInfo.cache

@@ -1,0 +1,15 @@
+C:\Users\pedro\OneDrive\Área de Trabalho\BRQ\SSO_Painel-main\AeC.WebApi\AeC.WebApi.Application\bin\Debug\net5.0\AeC.WebApi.Application.deps.json
+C:\Users\pedro\OneDrive\Área de Trabalho\BRQ\SSO_Painel-main\AeC.WebApi\AeC.WebApi.Application\bin\Debug\net5.0\AeC.WebApi.Application.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\BRQ\SSO_Painel-main\AeC.WebApi\AeC.WebApi.Application\bin\Debug\net5.0\AeC.WebApi.Application.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\BRQ\SSO_Painel-main\AeC.WebApi\AeC.WebApi.Application\bin\Debug\net5.0\AeC.WebApi.Domain.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\BRQ\SSO_Painel-main\AeC.WebApi\AeC.WebApi.Application\bin\Debug\net5.0\AeC.WebApi.Domain.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\BRQ\SSO_Painel-main\AeC.WebApi\AeC.WebApi.Application\obj\Debug\net5.0\AeC.WebApi.Application.csproj.AssemblyReference.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\BRQ\SSO_Painel-main\AeC.WebApi\AeC.WebApi.Application\obj\Debug\net5.0\AeC.WebApi.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\OneDrive\Área de Trabalho\BRQ\SSO_Painel-main\AeC.WebApi\AeC.WebApi.Application\obj\Debug\net5.0\AeC.WebApi.Application.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\BRQ\SSO_Painel-main\AeC.WebApi\AeC.WebApi.Application\obj\Debug\net5.0\AeC.WebApi.Application.AssemblyInfo.cs
+C:\Users\pedro\OneDrive\Área de Trabalho\BRQ\SSO_Painel-main\AeC.WebApi\AeC.WebApi.Application\obj\Debug\net5.0\AeC.WebApi.Application.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\BRQ\SSO_Painel-main\AeC.WebApi\AeC.WebApi.Application\obj\Debug\net5.0\AeC.WebApi.Application.csproj.CopyComplete
+C:\Users\pedro\OneDrive\Área de Trabalho\BRQ\SSO_Painel-main\AeC.WebApi\AeC.WebApi.Application\obj\Debug\net5.0\AeC.WebApi.Application.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\BRQ\SSO_Painel-main\AeC.WebApi\AeC.WebApi.Application\obj\Debug\net5.0\refint\AeC.WebApi.Application.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\BRQ\SSO_Painel-main\AeC.WebApi\AeC.WebApi.Application\obj\Debug\net5.0\AeC.WebApi.Application.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\BRQ\SSO_Painel-main\AeC.WebApi\AeC.WebApi.Application\obj\Debug\net5.0\ref\AeC.WebApi.Application.dll

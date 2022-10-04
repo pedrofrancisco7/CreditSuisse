@@ -1,0 +1,394 @@
+﻿++Solution 'AeC.WebApi' ‎(7 of 7 projects)
+i:{00000000-0000-0000-0000-000000000000}:AeC.WebApi.sln
+++1 - Services
+i:{00000000-0000-0000-0000-000000000000}:1 - Services
+++Aec.WebApi.Api
+i:{14fcb235-33a2-4f4a-bd45-cc7ca96de5be}:Aec.WebApi.Api
+++Connected Services 
+i:{8433c1d6-b131-49df-b552-22e21076c639}:>3677
+++Dependencies
+i:{8433c1d6-b131-49df-b552-22e21076c639}:>3676
+i:{efc58b36-9bd8-4740-97fd-0c904b94054d}:>2118
+i:{a21fb73c-ee5d-4f2a-ba62-e3bd5b06e240}:>2102
+i:{ff8ccaa7-599b-417f-94cb-457000cafc12}:>2013
+i:{2df2a39f-e4e4-4d2d-a9c5-dd6e585e0ffb}:>2323
+i:{6f444b4c-740a-4264-aacf-0ac43f5ef9bc}:>2101
+i:{01c3ce1b-fc2d-4d3a-844b-4bf027f83627}:>2198
+++Properties
+i:{8433c1d6-b131-49df-b552-22e21076c639}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.api\properties\
+++ChromeDriver
+i:{8433c1d6-b131-49df-b552-22e21076c639}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.api\chromedriver\
+++Configuration
+i:{8433c1d6-b131-49df-b552-22e21076c639}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.api\configuration\
+++Controllers
+i:{8433c1d6-b131-49df-b552-22e21076c639}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.api\controllers\
+++Models
+i:{8433c1d6-b131-49df-b552-22e21076c639}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.api\models\
+++appsettings.json
+i:{8433c1d6-b131-49df-b552-22e21076c639}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.api\appsettings.json
+i:{ff8ccaa7-599b-417f-94cb-457000cafc12}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.crawlers\appsettings.json
+++Program.cs
+i:{8433c1d6-b131-49df-b552-22e21076c639}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.api\program.cs
+++Startup.cs
+i:{8433c1d6-b131-49df-b552-22e21076c639}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.api\startup.cs
+++No service dependencies discovered
+i:{8433c1d6-b131-49df-b552-22e21076c639}:>3678
+++Analyzers
+i:{8433c1d6-b131-49df-b552-22e21076c639}:analyzers
+i:{efc58b36-9bd8-4740-97fd-0c904b94054d}:analyzers
+i:{a21fb73c-ee5d-4f2a-ba62-e3bd5b06e240}:analyzers
+i:{ff8ccaa7-599b-417f-94cb-457000cafc12}:analyzers
+i:{2df2a39f-e4e4-4d2d-a9c5-dd6e585e0ffb}:analyzers
+i:{6f444b4c-740a-4264-aacf-0ac43f5ef9bc}:analyzers
+i:{01c3ce1b-fc2d-4d3a-844b-4bf027f83627}:analyzers
+++Frameworks
+i:{8433c1d6-b131-49df-b552-22e21076c639}:frameworks
+i:{efc58b36-9bd8-4740-97fd-0c904b94054d}:frameworks
+i:{a21fb73c-ee5d-4f2a-ba62-e3bd5b06e240}:frameworks
+i:{ff8ccaa7-599b-417f-94cb-457000cafc12}:frameworks
+i:{2df2a39f-e4e4-4d2d-a9c5-dd6e585e0ffb}:frameworks
+i:{6f444b4c-740a-4264-aacf-0ac43f5ef9bc}:frameworks
+i:{01c3ce1b-fc2d-4d3a-844b-4bf027f83627}:frameworks
+++Packages
+i:{8433c1d6-b131-49df-b552-22e21076c639}:packages
+i:{ff8ccaa7-599b-417f-94cb-457000cafc12}:packages
+i:{2df2a39f-e4e4-4d2d-a9c5-dd6e585e0ffb}:packages
+i:{6f444b4c-740a-4264-aacf-0ac43f5ef9bc}:packages
+i:{01c3ce1b-fc2d-4d3a-844b-4bf027f83627}:packages
+++Projects
+i:{8433c1d6-b131-49df-b552-22e21076c639}:projects
+i:{efc58b36-9bd8-4740-97fd-0c904b94054d}:projects
+i:{6f444b4c-740a-4264-aacf-0ac43f5ef9bc}:projects
+i:{01c3ce1b-fc2d-4d3a-844b-4bf027f83627}:projects
+++PublishProfiles
+i:{8433c1d6-b131-49df-b552-22e21076c639}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.api\properties\publishprofiles\
+++launchSettings.json
+i:{8433c1d6-b131-49df-b552-22e21076c639}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.api\properties\launchsettings.json
+++Resources.resx
+i:{8433c1d6-b131-49df-b552-22e21076c639}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.api\properties\resources.resx
+++chromedriver.exe
+i:{8433c1d6-b131-49df-b552-22e21076c639}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.api\chromedriver\chromedriver.exe
+++ApiConfig.cs
+i:{8433c1d6-b131-49df-b552-22e21076c639}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.api\configuration\apiconfig.cs
+++AutoMapperConfig.cs
+i:{8433c1d6-b131-49df-b552-22e21076c639}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.api\configuration\automapperconfig.cs
+++BaseController.cs
+i:{8433c1d6-b131-49df-b552-22e21076c639}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.api\controllers\basecontroller.cs
+++VivoController.cs
+i:{8433c1d6-b131-49df-b552-22e21076c639}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.api\controllers\vivocontroller.cs
+++BaseModel.cs
+i:{8433c1d6-b131-49df-b552-22e21076c639}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.api\models\basemodel.cs
+++LoginScaModel.cs
+i:{8433c1d6-b131-49df-b552-22e21076c639}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.api\models\loginscamodel.cs
+++PanelUsersxSystemsModel.cs
+i:{8433c1d6-b131-49df-b552-22e21076c639}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.api\models\panelusersxsystemsmodel.cs
+++SystemAuxModel.cs
+i:{8433c1d6-b131-49df-b552-22e21076c639}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.api\models\systemauxmodel.cs
+++UsuarioModel.cs
+i:{8433c1d6-b131-49df-b552-22e21076c639}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.api\models\usuariomodel.cs
+++appsettings.Development.json
+i:{8433c1d6-b131-49df-b552-22e21076c639}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.api\appsettings.development.json
+++Microsoft.AspNetCore.Analyzers
+i:{8433c1d6-b131-49df-b552-22e21076c639}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{8433c1d6-b131-49df-b552-22e21076c639}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{8433c1d6-b131-49df-b552-22e21076c639}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{8433c1d6-b131-49df-b552-22e21076c639}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{efc58b36-9bd8-4740-97fd-0c904b94054d}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{a21fb73c-ee5d-4f2a-ba62-e3bd5b06e240}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{ff8ccaa7-599b-417f-94cb-457000cafc12}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{2df2a39f-e4e4-4d2d-a9c5-dd6e585e0ffb}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{6f444b4c-740a-4264-aacf-0ac43f5ef9bc}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{01c3ce1b-fc2d-4d3a-844b-4bf027f83627}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{8433c1d6-b131-49df-b552-22e21076c639}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{efc58b36-9bd8-4740-97fd-0c904b94054d}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{a21fb73c-ee5d-4f2a-ba62-e3bd5b06e240}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{ff8ccaa7-599b-417f-94cb-457000cafc12}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{2df2a39f-e4e4-4d2d-a9c5-dd6e585e0ffb}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{6f444b4c-740a-4264-aacf-0ac43f5ef9bc}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{01c3ce1b-fc2d-4d3a-844b-4bf027f83627}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{8433c1d6-b131-49df-b552-22e21076c639}:c:\users\yuppie_vpn01\.nuget\packages\microsoft.entityframeworkcore.analyzers\5.0.14\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{6f444b4c-740a-4264-aacf-0ac43f5ef9bc}:c:\users\yuppie_vpn01\.nuget\packages\microsoft.entityframeworkcore.analyzers\5.0.14\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{01c3ce1b-fc2d-4d3a-844b-4bf027f83627}:c:\users\yuppie_vpn01\.nuget\packages\microsoft.entityframeworkcore.analyzers\5.0.14\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.AspNetCore.App
+i:{8433c1d6-b131-49df-b552-22e21076c639}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.api\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{8433c1d6-b131-49df-b552-22e21076c639}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.api\microsoft.netcore.app
+i:{efc58b36-9bd8-4740-97fd-0c904b94054d}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.application\microsoft.netcore.app
+i:{a21fb73c-ee5d-4f2a-ba62-e3bd5b06e240}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.domain\microsoft.netcore.app
+i:{ff8ccaa7-599b-417f-94cb-457000cafc12}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.crawlers\microsoft.netcore.app
+i:{2df2a39f-e4e4-4d2d-a9c5-dd6e585e0ffb}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.getcaptchas\microsoft.netcore.app
+i:{6f444b4c-740a-4264-aacf-0ac43f5ef9bc}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.ioc\microsoft.netcore.app
+i:{01c3ce1b-fc2d-4d3a-844b-4bf027f83627}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.data\microsoft.netcore.app
+++AutoMapper (11.0.1)
+i:{8433c1d6-b131-49df-b552-22e21076c639}:>3753
+++AutoMapper.Extensions.Microsoft.DependencyInjection (11.0.0)
+i:{8433c1d6-b131-49df-b552-22e21076c639}:>3751
+++Microsoft.AspNetCore.Mvc.Versioning (5.0.0)
+i:{8433c1d6-b131-49df-b552-22e21076c639}:>3749
+++Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer (5.0.0)
+i:{8433c1d6-b131-49df-b552-22e21076c639}:>3750
+++Swashbuckle.AspNetCore (5.6.3)
+i:{8433c1d6-b131-49df-b552-22e21076c639}:>3752
+++AeC.WebApi.Application
+i:{8433c1d6-b131-49df-b552-22e21076c639}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.application\aec.webapi.application.csproj
+i:{e136cb92-a6f8-49de-be0b-a85a94089832}:AeC.WebApi.Application
+i:{6f444b4c-740a-4264-aacf-0ac43f5ef9bc}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.application\aec.webapi.application.csproj
+++AeC.WebApi.Crawlers
+i:{8433c1d6-b131-49df-b552-22e21076c639}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.crawlers\aec.webapi.crawlers.csproj
+i:{e76afaef-2027-4303-bc47-a630610c7279}:AeC.WebApi.Crawlers
+i:{6f444b4c-740a-4264-aacf-0ac43f5ef9bc}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.crawlers\aec.webapi.crawlers.csproj
+++AeC.WebApi.Domain
+i:{8433c1d6-b131-49df-b552-22e21076c639}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.domain\aec.webapi.domain.csproj
+i:{efc58b36-9bd8-4740-97fd-0c904b94054d}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.domain\aec.webapi.domain.csproj
+i:{0c158155-1d8f-4de7-b1a1-f967fee5523b}:AeC.WebApi.Domain
+i:{01c3ce1b-fc2d-4d3a-844b-4bf027f83627}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.domain\aec.webapi.domain.csproj
+++AeC.WebApi.GetCaptchas
+i:{8433c1d6-b131-49df-b552-22e21076c639}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.getcaptchas\aec.webapi.getcaptchas.csproj
+i:{e76afaef-2027-4303-bc47-a630610c7279}:AeC.WebApi.GetCaptchas
+i:{6f444b4c-740a-4264-aacf-0ac43f5ef9bc}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.getcaptchas\aec.webapi.getcaptchas.csproj
+++AeC.WebApi.IoC
+i:{8433c1d6-b131-49df-b552-22e21076c639}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.ioc\aec.webapi.ioc.csproj
+i:{be3c6949-8f44-4d44-9667-3efd5979c92a}:AeC.WebApi.IoC
+++FolderProfile.pubxml
+i:{8433c1d6-b131-49df-b552-22e21076c639}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.api\properties\publishprofiles\folderprofile.pubxml
+++Homolog.pubxml
+i:{8433c1d6-b131-49df-b552-22e21076c639}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.api\properties\publishprofiles\homolog.pubxml
+++Prod.pubxml
+i:{8433c1d6-b131-49df-b552-22e21076c639}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.api\properties\publishprofiles\prod.pubxml
+++Resources.Designer.cs
+i:{8433c1d6-b131-49df-b552-22e21076c639}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.api\properties\resources.designer.cs
+++2 - Application
+i:{00000000-0000-0000-0000-000000000000}:2 - Application
+++Interfaces
+i:{efc58b36-9bd8-4740-97fd-0c904b94054d}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.application\interfaces\
+i:{a21fb73c-ee5d-4f2a-ba62-e3bd5b06e240}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.domain\interfaces\
+i:{ff8ccaa7-599b-417f-94cb-457000cafc12}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.crawlers\interfaces\
+i:{2df2a39f-e4e4-4d2d-a9c5-dd6e585e0ffb}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.getcaptchas\interfaces\
+i:{01c3ce1b-fc2d-4d3a-844b-4bf027f83627}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.data\interfaces\
+++Services
+i:{efc58b36-9bd8-4740-97fd-0c904b94054d}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.application\services\
+i:{a21fb73c-ee5d-4f2a-ba62-e3bd5b06e240}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.domain\services\
+i:{a21fb73c-ee5d-4f2a-ba62-e3bd5b06e240}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.domain\interfaces\services\
+++IAppServiceBase.cs
+i:{efc58b36-9bd8-4740-97fd-0c904b94054d}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.application\interfaces\iappservicebase.cs
+++IPanelAppService.cs
+i:{efc58b36-9bd8-4740-97fd-0c904b94054d}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.application\interfaces\ipanelappservice.cs
+++IPanelSystemsAppService.cs
+i:{efc58b36-9bd8-4740-97fd-0c904b94054d}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.application\interfaces\ipanelsystemsappservice.cs
+++IPanelUsersxSystemsAppService.cs
+i:{efc58b36-9bd8-4740-97fd-0c904b94054d}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.application\interfaces\ipanelusersxsystemsappservice.cs
+++IVivoAppService.cs
+i:{efc58b36-9bd8-4740-97fd-0c904b94054d}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.application\interfaces\ivivoappservice.cs
+++AppServiceBase.cs
+i:{efc58b36-9bd8-4740-97fd-0c904b94054d}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.application\services\appservicebase.cs
+++PanelAppService.cs
+i:{efc58b36-9bd8-4740-97fd-0c904b94054d}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.application\services\panelappservice.cs
+++PanelSystemsAppService.cs
+i:{efc58b36-9bd8-4740-97fd-0c904b94054d}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.application\services\panelsystemsappservice.cs
+++PanelUsersxSystemsAppService.cs
+i:{efc58b36-9bd8-4740-97fd-0c904b94054d}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.application\services\panelusersxsystemsappservice.cs
+++VivoAppService.cs
+i:{efc58b36-9bd8-4740-97fd-0c904b94054d}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.application\services\vivoappservice.cs
+++3 - Domain
+i:{00000000-0000-0000-0000-000000000000}:3 - Domain
+++Entities
+i:{a21fb73c-ee5d-4f2a-ba62-e3bd5b06e240}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.domain\entities\
+++Notifications
+i:{a21fb73c-ee5d-4f2a-ba62-e3bd5b06e240}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.domain\notifications\
+++Captchas.cs
+i:{a21fb73c-ee5d-4f2a-ba62-e3bd5b06e240}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.domain\entities\captchas.cs
+++PanelAccess.cs
+i:{a21fb73c-ee5d-4f2a-ba62-e3bd5b06e240}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.domain\entities\panelaccess.cs
+++PanelSystems.cs
+i:{a21fb73c-ee5d-4f2a-ba62-e3bd5b06e240}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.domain\entities\panelsystems.cs
+++PanelUsersxSystems.cs
+i:{a21fb73c-ee5d-4f2a-ba62-e3bd5b06e240}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.domain\entities\panelusersxsystems.cs
+++SSOPanelSystems.cs
+i:{a21fb73c-ee5d-4f2a-ba62-e3bd5b06e240}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.domain\entities\ssopanelsystems.cs
+++Systems.cs
+i:{a21fb73c-ee5d-4f2a-ba62-e3bd5b06e240}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.domain\entities\systems.cs
+++SystemsAux.cs
+i:{a21fb73c-ee5d-4f2a-ba62-e3bd5b06e240}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.domain\entities\systemsaux.cs
+++Repository
+i:{a21fb73c-ee5d-4f2a-ba62-e3bd5b06e240}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.domain\interfaces\repository\
+i:{01c3ce1b-fc2d-4d3a-844b-4bf027f83627}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.data\repository\
+i:{01c3ce1b-fc2d-4d3a-844b-4bf027f83627}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.data\interfaces\repository\
+++Notificacao.cs
+i:{a21fb73c-ee5d-4f2a-ba62-e3bd5b06e240}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.domain\notifications\notificacao.cs
+++Notificador.cs
+i:{a21fb73c-ee5d-4f2a-ba62-e3bd5b06e240}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.domain\notifications\notificador.cs
+++PanelService.cs
+i:{a21fb73c-ee5d-4f2a-ba62-e3bd5b06e240}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.domain\services\panelservice.cs
+++PanelSystemsService.cs
+i:{a21fb73c-ee5d-4f2a-ba62-e3bd5b06e240}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.domain\services\panelsystemsservice.cs
+++PanelUsersxSystemsService.cs
+i:{a21fb73c-ee5d-4f2a-ba62-e3bd5b06e240}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.domain\services\panelusersxsystemsservice.cs
+++ServiceBase.cs
+i:{a21fb73c-ee5d-4f2a-ba62-e3bd5b06e240}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.domain\services\servicebase.cs
+++VivoService.cs
+i:{a21fb73c-ee5d-4f2a-ba62-e3bd5b06e240}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.domain\services\vivoservice.cs
+++IPanelRepository.cs
+i:{a21fb73c-ee5d-4f2a-ba62-e3bd5b06e240}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.domain\interfaces\repository\ipanelrepository.cs
+i:{01c3ce1b-fc2d-4d3a-844b-4bf027f83627}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.data\interfaces\repository\ipanelrepository.cs
+++IPanelSystemsRepository.cs
+i:{a21fb73c-ee5d-4f2a-ba62-e3bd5b06e240}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.domain\interfaces\repository\ipanelsystemsrepository.cs
+i:{01c3ce1b-fc2d-4d3a-844b-4bf027f83627}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.data\interfaces\repository\ipanelsystemsrepository.cs
+++IPanelUsersxSystemsRepository.cs
+i:{a21fb73c-ee5d-4f2a-ba62-e3bd5b06e240}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.domain\interfaces\repository\ipanelusersxsystemsrepository.cs
+i:{01c3ce1b-fc2d-4d3a-844b-4bf027f83627}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.data\interfaces\repository\ipanelusersxsystemsrepository.cs
+++IRepositoryBase.cs
+i:{a21fb73c-ee5d-4f2a-ba62-e3bd5b06e240}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.domain\interfaces\repository\irepositorybase.cs
+i:{01c3ce1b-fc2d-4d3a-844b-4bf027f83627}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.data\interfaces\repository\irepositorybase.cs
+++IVivoRepository.cs
+i:{a21fb73c-ee5d-4f2a-ba62-e3bd5b06e240}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.domain\interfaces\repository\ivivorepository.cs
+i:{01c3ce1b-fc2d-4d3a-844b-4bf027f83627}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.data\interfaces\repository\ivivorepository.cs
+++INotificador.cs
+i:{a21fb73c-ee5d-4f2a-ba62-e3bd5b06e240}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.domain\interfaces\services\inotificador.cs
+++IPanelService.cs
+i:{a21fb73c-ee5d-4f2a-ba62-e3bd5b06e240}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.domain\interfaces\services\ipanelservice.cs
+++IPanelSystemsService.cs
+i:{a21fb73c-ee5d-4f2a-ba62-e3bd5b06e240}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.domain\interfaces\services\ipanelsystemsservice.cs
+++IPanelUsersxSystemsService.cs
+i:{a21fb73c-ee5d-4f2a-ba62-e3bd5b06e240}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.domain\interfaces\services\ipanelusersxsystemsservice.cs
+++IServiceBase.cs
+i:{a21fb73c-ee5d-4f2a-ba62-e3bd5b06e240}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.domain\interfaces\services\iservicebase.cs
+++IVivoService.cs
+i:{a21fb73c-ee5d-4f2a-ba62-e3bd5b06e240}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.domain\interfaces\services\ivivoservice.cs
+++5 - Crawlers
+i:{00000000-0000-0000-0000-000000000000}:5 - Crawlers
+++Configs
+i:{ff8ccaa7-599b-417f-94cb-457000cafc12}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.crawlers\configs\
+++Integrations
+i:{ff8ccaa7-599b-417f-94cb-457000cafc12}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.crawlers\integrations\
+i:{2df2a39f-e4e4-4d2d-a9c5-dd6e585e0ffb}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.getcaptchas\integrations\
+++Results
+i:{ff8ccaa7-599b-417f-94cb-457000cafc12}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.crawlers\results\
+i:{2df2a39f-e4e4-4d2d-a9c5-dd6e585e0ffb}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.getcaptchas\results\
+++Selenium
+i:{ff8ccaa7-599b-417f-94cb-457000cafc12}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.crawlers\selenium\
+++SgiAutomation.cs
+i:{ff8ccaa7-599b-417f-94cb-457000cafc12}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.crawlers\selenium\sgiautomation.cs
+++Vivo360Automation.cs
+i:{ff8ccaa7-599b-417f-94cb-457000cafc12}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.crawlers\selenium\vivo360automation.cs
+++Utils
+i:{ff8ccaa7-599b-417f-94cb-457000cafc12}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.crawlers\utils\
+i:{2df2a39f-e4e4-4d2d-a9c5-dd6e585e0ffb}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.getcaptchas\utils\
+++SeleniumConfig.cs
+i:{ff8ccaa7-599b-417f-94cb-457000cafc12}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.crawlers\configs\seleniumconfig.cs
+++SerilogConfig.cs
+i:{ff8ccaa7-599b-417f-94cb-457000cafc12}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.crawlers\configs\serilogconfig.cs
+++VivoAutomation.cs
+i:{ff8ccaa7-599b-417f-94cb-457000cafc12}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.crawlers\integrations\vivoautomation.cs
+++IGetGenericBase.cs
+i:{ff8ccaa7-599b-417f-94cb-457000cafc12}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.crawlers\interfaces\igetgenericbase.cs
+++ISgiInterfaces.cs
+i:{ff8ccaa7-599b-417f-94cb-457000cafc12}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.crawlers\interfaces\isgiinterfaces.cs
+++IVivo360Interfaces.cs
+i:{ff8ccaa7-599b-417f-94cb-457000cafc12}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.crawlers\interfaces\ivivo360interfaces.cs
+++IVivoInterfaces.cs
+i:{ff8ccaa7-599b-417f-94cb-457000cafc12}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.crawlers\interfaces\ivivointerfaces.cs
+++BaseResult.cs
+i:{ff8ccaa7-599b-417f-94cb-457000cafc12}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.crawlers\results\baseresult.cs
+i:{2df2a39f-e4e4-4d2d-a9c5-dd6e585e0ffb}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.getcaptchas\results\baseresult.cs
+++CaptchaResult.cs
+i:{ff8ccaa7-599b-417f-94cb-457000cafc12}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.crawlers\results\captcharesult.cs
+i:{2df2a39f-e4e4-4d2d-a9c5-dd6e585e0ffb}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.getcaptchas\results\captcharesult.cs
+++DadosUsuarioResult.cs
+i:{ff8ccaa7-599b-417f-94cb-457000cafc12}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.crawlers\results\dadosusuarioresult.cs
+++LoginScaResult.cs
+i:{ff8ccaa7-599b-417f-94cb-457000cafc12}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.crawlers\results\loginscaresult.cs
+++LoginSgiResult.cs
+i:{ff8ccaa7-599b-417f-94cb-457000cafc12}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.crawlers\results\loginsgiresult.cs
+++SystemAuxResult.cs
+i:{ff8ccaa7-599b-417f-94cb-457000cafc12}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.crawlers\results\systemauxresult.cs
+++Vivo.cs
+i:{ff8ccaa7-599b-417f-94cb-457000cafc12}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.crawlers\results\vivo.cs
+++Browser.cs
+i:{ff8ccaa7-599b-417f-94cb-457000cafc12}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.crawlers\utils\browser.cs
+i:{2df2a39f-e4e4-4d2d-a9c5-dd6e585e0ffb}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.getcaptchas\utils\browser.cs
+++Extensions.cs
+i:{ff8ccaa7-599b-417f-94cb-457000cafc12}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.crawlers\utils\extensions.cs
+++VivoParameters.cs
+i:{ff8ccaa7-599b-417f-94cb-457000cafc12}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.crawlers\utils\vivoparameters.cs
+++DotNetSeleniumExtras.WaitHelpers (3.11.0)
+i:{ff8ccaa7-599b-417f-94cb-457000cafc12}:>3703
+++HtmlAgilityPack (1.11.42)
+i:{ff8ccaa7-599b-417f-94cb-457000cafc12}:>3699
+++Newtonsoft.Json (13.0.1)
+i:{ff8ccaa7-599b-417f-94cb-457000cafc12}:>3701
+i:{2df2a39f-e4e4-4d2d-a9c5-dd6e585e0ffb}:>3738
+++Selenium.Support (4.1.1)
+i:{ff8ccaa7-599b-417f-94cb-457000cafc12}:>3705
+++Selenium.WebDriver (4.1.1)
+i:{ff8ccaa7-599b-417f-94cb-457000cafc12}:>3697
+++Selenium.WebDriver.ChromeDriver (101.0.4951.4100)
+i:{ff8ccaa7-599b-417f-94cb-457000cafc12}:>3700
+++Serilog.AspNetCore (5.0.0)
+i:{ff8ccaa7-599b-417f-94cb-457000cafc12}:>3702
+++Serilog.Enrichers.Process (2.0.2)
+i:{ff8ccaa7-599b-417f-94cb-457000cafc12}:>3704
+++Serilog.Enrichers.Thread (3.1.0)
+i:{ff8ccaa7-599b-417f-94cb-457000cafc12}:>3707
+++Serilog.Sinks.MSSqlServer (5.7.0)
+i:{ff8ccaa7-599b-417f-94cb-457000cafc12}:>3706
+++System.Drawing.Common (6.0.0)
+i:{ff8ccaa7-599b-417f-94cb-457000cafc12}:>3698
+++CaptchaAutomation.cs
+i:{2df2a39f-e4e4-4d2d-a9c5-dd6e585e0ffb}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.getcaptchas\integrations\captchaautomation.cs
+++ICaptchaInterfaces.cs
+i:{2df2a39f-e4e4-4d2d-a9c5-dd6e585e0ffb}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.getcaptchas\interfaces\icaptchainterfaces.cs
+++4 - Infra
+i:{00000000-0000-0000-0000-000000000000}:4 - Infra
+++4.2 - IoC
+i:{9d1feb2f-fd5b-439e-af9c-1fa1125fea93}:4.2 - IoC
+++Bindings.cs
+i:{6f444b4c-740a-4264-aacf-0ac43f5ef9bc}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.ioc\bindings.cs
+++Microsoft.Extensions.DependencyInjection.Abstractions (6.0.0)
+i:{6f444b4c-740a-4264-aacf-0ac43f5ef9bc}:>3685
+++AeC.WebApi.Data
+i:{6f444b4c-740a-4264-aacf-0ac43f5ef9bc}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.data\aec.webapi.data.csproj
+i:{bfc752d4-d587-498e-889d-fa223e43b531}:AeC.WebApi.Data
+++4.1 - Data
+i:{9d1feb2f-fd5b-439e-af9c-1fa1125fea93}:4.1 - Data
+++Context
+i:{01c3ce1b-fc2d-4d3a-844b-4bf027f83627}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.data\context\
+++Mapping
+i:{01c3ce1b-fc2d-4d3a-844b-4bf027f83627}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.data\mapping\
+++AeCContext.cs
+i:{01c3ce1b-fc2d-4d3a-844b-4bf027f83627}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.data\context\aeccontext.cs
+++RegisterMapping.cs
+i:{01c3ce1b-fc2d-4d3a-844b-4bf027f83627}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.data\mapping\registermapping.cs
+++SystemsAuxMap.cs
+i:{01c3ce1b-fc2d-4d3a-844b-4bf027f83627}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.data\mapping\systemsauxmap.cs
+++SystemsMap.cs
+i:{01c3ce1b-fc2d-4d3a-844b-4bf027f83627}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.data\mapping\systemsmap.cs
+++PanelRepository.cs
+i:{01c3ce1b-fc2d-4d3a-844b-4bf027f83627}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.data\repository\panelrepository.cs
+++PanelSystemsRepository.cs
+i:{01c3ce1b-fc2d-4d3a-844b-4bf027f83627}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.data\repository\panelsystemsrepository.cs
+++PanelUsersxSystemsRepository.cs
+i:{01c3ce1b-fc2d-4d3a-844b-4bf027f83627}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.data\repository\panelusersxsystemsrepository.cs
+++RepositoryBase.cs
+i:{01c3ce1b-fc2d-4d3a-844b-4bf027f83627}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.data\repository\repositorybase.cs
+++VivoRepository.cs
+i:{01c3ce1b-fc2d-4d3a-844b-4bf027f83627}:c:\users\yuppie_vpn01\documents\yuppie\projetos\aec.webapi\aec.webapi.data\repository\vivorepository.cs
+++Dapper.FluentMap (2.0.0)
+i:{01c3ce1b-fc2d-4d3a-844b-4bf027f83627}:>3717
+++Microsoft.EntityFrameworkCore (5.0.14)
+i:{01c3ce1b-fc2d-4d3a-844b-4bf027f83627}:>3714
+++Microsoft.Extensions.Configuration.Abstractions (6.0.0)
+i:{01c3ce1b-fc2d-4d3a-844b-4bf027f83627}:>3715
+++System.Data.SqlClient (4.8.3)
+i:{01c3ce1b-fc2d-4d3a-844b-4bf027f83627}:>3716
+++Script Documents
+++VM5
+++index.html
+++swagger-ui-bundle.js
+++swagger-ui-standalone-preset.js
+++aspnetcore-browser-refresh.js
+++browserLink
