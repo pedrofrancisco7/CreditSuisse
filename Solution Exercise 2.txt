@@ -1,0 +1,2 @@
+Create the IsPoliticallyExposed boolean property in the ITrade interface and in the Database a bit field.
+After the date NextPendingPayment include Y or N for IsPoliticallyExposed with a blank space to be able to validate the information and return to the front
