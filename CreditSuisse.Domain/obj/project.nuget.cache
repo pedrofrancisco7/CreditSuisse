@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6eMvt8/ImZVOb1dYqWz4/+NdB+sH4zZM9GU6KIT3lujeb9muvqVwf10JfphHvIiqstWydSxaHadLQfW3IczMHQ==",
+  "dgSpecHash": "i9KB2Jhm241x0Zdl1b/r///q2dy94Xnfj4nzVPIT7ESaw8Q/l2BckyvHpx0l6ufC4y/DcdF0x7gHgVozVtHKng==",
   "success": true,
-  "projectFilePath": "C:\\Users\\pedro\\OneDrive\\Área de Trabalho\\BRQ\\CreditSuisse\\CreditSuisse.Domain\\CreditSuisse.Domain.csproj",
+  "projectFilePath": "C:\\Users\\pedro\\OneDrive\\Área de Trabalho\\brq\\CreditSuisse.Domain\\CreditSuisse.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

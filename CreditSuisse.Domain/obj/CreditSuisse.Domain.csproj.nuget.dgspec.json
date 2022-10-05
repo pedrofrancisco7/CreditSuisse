@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pedro\\OneDrive\\Área de Trabalho\\BRQ\\CreditSuisse\\CreditSuisse.Domain\\CreditSuisse.Domain.csproj": {}
+    "C:\\Users\\pedro\\OneDrive\\Área de Trabalho\\brq\\CreditSuisse.Domain\\CreditSuisse.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pedro\\OneDrive\\Área de Trabalho\\BRQ\\CreditSuisse\\CreditSuisse.Domain\\CreditSuisse.Domain.csproj": {
+    "C:\\Users\\pedro\\OneDrive\\Área de Trabalho\\brq\\CreditSuisse.Domain\\CreditSuisse.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pedro\\OneDrive\\Área de Trabalho\\BRQ\\CreditSuisse\\CreditSuisse.Domain\\CreditSuisse.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\pedro\\OneDrive\\Área de Trabalho\\brq\\CreditSuisse.Domain\\CreditSuisse.Domain.csproj",
         "projectName": "CreditSuisse.Domain",
-        "projectPath": "C:\\Users\\pedro\\OneDrive\\Área de Trabalho\\BRQ\\CreditSuisse\\CreditSuisse.Domain\\CreditSuisse.Domain.csproj",
+        "projectPath": "C:\\Users\\pedro\\OneDrive\\Área de Trabalho\\brq\\CreditSuisse.Domain\\CreditSuisse.Domain.csproj",
         "packagesPath": "C:\\Users\\pedro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pedro\\OneDrive\\Área de Trabalho\\BRQ\\CreditSuisse\\CreditSuisse.Domain\\obj\\",
+        "outputPath": "C:\\Users\\pedro\\OneDrive\\Área de Trabalho\\brq\\CreditSuisse.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pedro\\AppData\\Roaming\\NuGet\\NuGet.Config",

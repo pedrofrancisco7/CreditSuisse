@@ -1,7 +1,9 @@
-﻿using CreditSuisse.App.Models;
+﻿using CreditSuisse.App.Categories;
+using CreditSuisse.App.Models;
 using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
+using System.Globalization;
 using System.Net.Http;
 using System.Net.Http.Headers;
 using System.Text;
@@ -12,6 +14,7 @@ namespace CreditSuisse.App
     public class Program
     {
         private static OperationModel _operationModel;
+        private static TradeModel _tradeModel;
         static void Main(string[] args)
         {
             _operationModel = new OperationModel();
@@ -102,12 +105,13 @@ namespace CreditSuisse.App
                 #region Reference Date                
 
                 Utils.Utils.ChangeConsoleColor(ConsoleColor.Yellow);
-                Console.WriteLine("Input Reference Date: (Format: yyyy-MM-dd)");
+                Console.WriteLine("Input Reference Date: (Format: MM/dd/yyyy)");
                 Utils.Utils.ChangeConsoleColor(ConsoleColor.White);
 
                 if (operationModel.ReferenceDate == DateTime.MinValue)
                 {
-                    var refDate = DateTime.TryParse(Console.ReadLine(), out var referenceDate);
+                    var refDate = DateTime.TryParseExact(Console.ReadLine(), "MM/dd/yyyy", new CultureInfo("en-US"), DateTimeStyles.None, out var referenceDate);
+                    //var refDate = DateTime.TryParse(Console.ReadLine(), out var referenceDate);
                     if (!refDate)
                     {
                         Console.WriteLine("Choose a valid Date!");
@@ -115,7 +119,7 @@ namespace CreditSuisse.App
                         await GetTradeInfo(operationModel);
                     }
                     else
-                    {
+                    {                        
                         _operationModel.ReferenceDate = referenceDate;
                     }
 
@@ -155,7 +159,8 @@ namespace CreditSuisse.App
                 #endregion
 
                 #region Send to API
-                await TradesFromApi(operationModel);
+                await GetCategory(operationModel);
+                //await TradesFromApi(operationModel);
                 #endregion
 
 
@@ -205,6 +210,7 @@ namespace CreditSuisse.App
                 }
                 else
                 {
+                    trade.ReferenceDate = _operationModel.ReferenceDate;
                     _operationModel.Trades.Add(trade);
                 }
             }
@@ -253,6 +259,47 @@ namespace CreditSuisse.App
             }
 
 
+
+        }
+
+        private async static Task GetCategory(OperationModel operation)
+        {
+            var retorno = new Trades(new Category());
+            retorno.GetCategory(operation);            
+            Utils.Utils.ChangeConsoleColor(ConsoleColor.Green);
+            Console.WriteLine();
+            Console.WriteLine($"See the results below!");
+            Utils.Utils.ChangeConsoleColor(ConsoleColor.White);
+
+            foreach (var item in retorno._categories)
+            {
+                Console.WriteLine(item);
+            }
+
+            Utils.Utils.ChangeConsoleColor(ConsoleColor.Magenta);
+            Console.WriteLine();
+            Console.WriteLine($"Do you want restart? (S/N)");
+            Utils.Utils.ChangeConsoleColor(ConsoleColor.White);
+            var again = Console.ReadLine();
+
+            if (Utils.Utils.Again(again))
+            {
+                _operationModel = new OperationModel();
+                Console.Clear();
+                await StartProgram(_operationModel);
+
+            }
+            else
+            {
+                Utils.Utils.ChangeConsoleColor(ConsoleColor.DarkRed);
+                Console.WriteLine();
+                Console.WriteLine($"The program has been exited! Press any key to close...");
+                Utils.Utils.ChangeConsoleColor(ConsoleColor.White);
+                Environment.Exit(0);
+            }
+
+
+            
 
         }
         

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cZBNSMYSMKvUtCOKd4Qj70s7X6j6gAVwRdwt6V9R6jhO/nDR0cedBnfJsK93a40PZ1D8yVm5oE56RQkZdhmoKw==",
+  "dgSpecHash": "L1RcNzg3VAFv+evesZoiOHVFIPlhp9mL3zSJKNZ1LD/GfD73gjWU4C9iTZNuKNsCUAzI1LFENbP+kmHD8tk3cQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\pedro\\OneDrive\\Área de Trabalho\\BRQ\\CreditSuisse\\CreditSuisse.Api\\CreditSuisse.Api.csproj",
+  "projectFilePath": "C:\\Users\\pedro\\OneDrive\\Área de Trabalho\\brq\\CreditSuisse.Api\\CreditSuisse.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pedro\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\pedro\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",

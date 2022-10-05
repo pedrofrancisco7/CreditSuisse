@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CUTfPG+GLHUbPR0mIB8rRS6uQThVwynwMceRM8MReRXf6O9U1hvCRUrdJXvP2cgbeM1ZpTwL7Q2FTS6hP9f63w==",
+  "dgSpecHash": "OMRaIJ1ZH7+lZ64i41Qczt4D7hUt802C5rCL/55738iDCAId6R1mtKlmFIF/6xz3C5fF+39H3pxMlGZ/p7qw1g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\pedro\\OneDrive\\Área de Trabalho\\BRQ\\CreditSuisse\\CreditSuisse.IoC\\CreditSuisse.IoC.csproj",
+  "projectFilePath": "C:\\Users\\pedro\\OneDrive\\Área de Trabalho\\brq\\CreditSuisse.IoC\\CreditSuisse.IoC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pedro\\.nuget\\packages\\dapper\\2.0.35\\dapper.2.0.35.nupkg.sha512",
     "C:\\Users\\pedro\\.nuget\\packages\\dapper.fluentmap\\2.0.0\\dapper.fluentmap.2.0.0.nupkg.sha512",
